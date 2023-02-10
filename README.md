@@ -1,10 +1,10 @@
 # 🚀 Workshop: Construisez une webapp avec l'API IPFS et une API reposant sur IPFS
 
 Bienvenue à ce workshop, où nous allons vous montrer comment construire une webapp en utilisant l'API IPFS et construire une API reposant sur IPFS.
-Ce workshop est découpé en 6 étapes faciles à suivre. Nous sommes convaincus que, à la fin de ce workshop, vous serez en mesure de construire votre propre webapp en utilisant IPFS.
+Ce workshop est découpé en 5 étapes faciles à suivre. Nous sommes convaincus que, à la fin de ce workshop, vous serez en mesure de construire votre propre webapp en utilisant IPFS.
 
 ## Pré-requis 
-- Connaissances de base en développement web (HTML, CSS, JavaScript)
+- Connaissances de base en développement front et backend
 - Connaissances en utilisation de l'API REST
 - Connaissance de l'IPFS et de son fonctionnement
 
